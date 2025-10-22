@@ -1,5 +1,3 @@
-# Project Timeline
-
 ### 🎓 College  
 - **Intro to Programming (Java + GUI)** – Java project based on coding graphical interface.  
 - **Computer Science (Zapper AR Poster)** – Interactive Augmented Reality poster created using Zapper platform for SDG Climate Change.  
